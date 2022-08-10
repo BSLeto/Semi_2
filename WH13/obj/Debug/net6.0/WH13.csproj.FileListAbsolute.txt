@@ -1,0 +1,15 @@
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.csproj.AssemblyReference.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.AssemblyInfoInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.AssemblyInfo.cs
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.csproj.CoreCompileInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\bin\Debug\net6.0\WH13.exe
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\bin\Debug\net6.0\WH13.deps.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\bin\Debug\net6.0\WH13.runtimeconfig.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\bin\Debug\net6.0\WH13.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\bin\Debug\net6.0\WH13.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\refint\WH13.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\WH13.genruntimeconfig.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_2\WH13\obj\Debug\net6.0\ref\WH13.dll
